@@ -6,7 +6,7 @@
 // })
 
 setTimeout(() => {
-    alert('TOUCH THE CAKE 🎂 AND ENJOY THE PARTY 🎶🎉🎊');
+    //alert('TOUCH THE CAKE AND ENJOY THE PARTY');
 }, 1000);
 
 window.addEventListener('click', function() {
